@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - h5py
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
